@@ -20,7 +20,7 @@ def sing_song():
         ("Do you think I have forgotten?", 0.1),
         ("Do you think I have forgotten?", 0.1),
         ("Do you think I have forgotten", 0.1),
-        ("about you?", 0.2),
+        ("about you?", 0.3),
         ("There was something bout you that now I cant remember", 0.08),
         ("Its the same damn thing that made my heart surrender", 0.1),
         ("And I miss you on a train, I miss you in the morning", 0.1),
