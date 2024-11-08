@@ -43,7 +43,7 @@
 .pelikan:nth-of-type(5) {
     opacity: 0;
     animation: fadein ease-in-out 3s forwards;
-    animation-delay: 20s;
+    animation-delay: 19s;
 }
 
 .istri {
