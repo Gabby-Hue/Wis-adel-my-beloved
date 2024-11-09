@@ -1,0 +1,162 @@
+/* Reset some basic styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header styles
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+/* Menu icon styling
+.menu-icon {
+  font-size: 24px;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Navbar styles 
+#navbar {
+  display: none; /* Hidden by default 
+}
+
+#navbar ul {
+  list-style-type: none;
+}
+
+#navbar ul li {
+  margin: 10px 0;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #3498db;
+  font-size: 1.2em;
+}
+
+/* Responsive display for mobile /
+.hidden {
+  display: none;
+}
+
+/* Display navbar when visible /
+.visible {
+  display: block;
+}
+
+/* Media query for larger screens /
+@media (min-width: 600px) {
+  #navbar {
+    display: flex;
+  }
+  
+  #navbar ul {
+    display: flex;
+    gap: 20px;
+  }
+  
+  #navbar ul li {
+    margin: 0;
+  }
+  
+  .menu-icon {
+    display: none;
+  }
+}*/
+
+/* Reset some basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+/* Menu icon styling */
+.menu-icon {
+  font-size: 24px;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Navbar styles */
+#navbar {
+  display: none; /* Hidden by default */
+  background-color: #444;
+  padding: 10px;
+}
+
+#navbar ul {
+  list-style-type: none;
+}
+
+#navbar ul li {
+  margin: 10px 0;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #3498db;
+  font-size: 1.2em;
+}
+
+/* Display navbar when the .visible class is added */
+#navbar.visible {
+  display: block;
+}
+
+/* Media query for larger screens */
+@media (min-width: 600px) {
+  #navbar {
+    display: flex;
+  }
+  
+  #navbar ul {
+    display: flex;
+    gap: 20px;
+  }
+  
+  #navbar ul li {
+    margin: 0;
+  }
+  
+  .menu-icon {
+    display: none;
+  }
+}
