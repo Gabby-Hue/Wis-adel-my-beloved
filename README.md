@@ -1,5 +1,5 @@
 # Wis-adel-my-beloved
-Yahoooo, whoever read this i hope you all the best
+Yahoooo, whoever read this in 2025 hope you all the best, today is the day im gonna start 1 day 1 commit i hope i could get this right
 this is the first time i use GitHub
 i myself are new in programing world, so i will appreciate any help or feedback
 Some programing language that i could use for now are
